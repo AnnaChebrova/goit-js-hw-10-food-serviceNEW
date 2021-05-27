@@ -1,0 +1,31 @@
+  body {
+    background-color: rgb(238, 241, 207);
+  }
+
+  .timer {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+  }
+
+.value {
+  font-size: 30px;
+
+  color: coral;
+}
+
+.label {
+  font-size: 30px;
+  font-style: italic;
+  color: magenta;
+
+
+}
+.field {
+margin-right: 20px;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+  
+  
